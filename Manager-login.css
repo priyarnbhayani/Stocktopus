@@ -1,0 +1,131 @@
+ .u-section-1 {
+  background-image: url("/images/1.Introduction2ProblemStatement3Literaturesurvey4ExistingSystem5ProposedSystem6.Architecture7.Algorithm8.WorkflowofProposedModel.9.HardwareSoftwareRequirements10.Implementation11.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 711px;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 1px 1px 3px rgba(128,128,128,0.5);
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 179px 146px 0 622px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 248px;
+  margin: 33px 146px 0 622px;
+}
+
+.u-section-1 .u-btn-1 {
+  width: 100%;
+  box-shadow: -3px 0px 2px 0px rgba(128,128,128,0.85);
+  letter-spacing: normal;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.u-section-1 .u-btn-2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: -55px 146px 60px auto;
+  padding: 12px 161px 13px 160px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 586px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 137px;
+    margin-right: 60px;
+    margin-left: 508px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 8px;
+    margin-right: 91px;
+    margin-left: 522px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    width: 62%;
+    padding-top: 1px;
+    padding-bottom: 3px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -38px;
+    margin-right: 91px;
+    padding-right: 139px;
+    padding-left: 138px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 278px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 449px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 348px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 393px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 182px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 337px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 168px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 213px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 75px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 212px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 13px;
+  }
+}
